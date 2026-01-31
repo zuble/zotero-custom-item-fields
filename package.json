@@ -32,7 +32,7 @@
 	},
 	"homepage": "https://github.com/Dominic-DallOsto/zotero-custom-item-fields",
 	"dependencies": {
-		"zotero-plugin-toolkit": "^4.1.2"
+		"zotero-plugin-toolkit": "^5.1.0-beta.13"
 	},
 	"devDependencies": {
 		"@types/node": "^22.14.1",
@@ -45,8 +45,8 @@
 		"replace-in-file": "^8.3.0",
 		"typescript": "^5.8.3",
 		"typescript-eslint": "^8.31.0",
-		"zotero-plugin-scaffold": "^0.5.0",
-		"zotero-types": "^3.1.9"
+		"zotero-plugin-scaffold": "^0.8.2",
+		"zotero-types": "^4.0.5"
 	},
 	"prettier": {
 		"printWidth": 80,
