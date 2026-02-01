@@ -1,8 +1,8 @@
-import { ColumnOptions } from "zotero-plugin-toolkit/dist/helpers/virtualizedTable";
-import { DialogHelper } from "zotero-plugin-toolkit/dist/helpers/dialog";
+import { type ColumnOptions } from "zotero-plugin-toolkit";
+import { DialogHelper } from "zotero-plugin-toolkit";
+import { createZToolkit } from "./utils/ztoolkit";
 import hooks from "./hooks";
 import prefsMenu from "./prefs-menu";
-import { createZToolkit } from "./utils/ztoolkit";
 
 class Addon {
 	public data: {
