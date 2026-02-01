@@ -7,8 +7,8 @@
 		"skipLibCheck": true,
 		"strict": true,
 		"removeComments": false,
-		"sourceMap": false,
+		"sourceMap": false
 	},
 	"include": ["src", "typings", "node_modules/zotero-types"],
-	"exclude": ["build", "addon"],
+	"exclude": ["build", "addon"]
 }
